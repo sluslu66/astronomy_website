@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mercury",
+    "desc": "Closest planet to the Sun."
+  },
+  {
+    "name": "Earth",
+    "desc": "Our home planet."
+  },
+  {
+    "name": "Mars",
+    "desc": "The red planet."
+  }
+]
